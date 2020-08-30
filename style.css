@@ -19,8 +19,8 @@ h1 {
 h2 {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
-    font-style: italic;
-    font-size: xx-large;
+    font-style: inherit;
+    font-size: x-large;
 }
 p {
 	margin: 15px;
