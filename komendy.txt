@@ -1,0 +1,19 @@
+AUTOPREFIXER 
+
+Instal:
+npm install --global autoprefixer-cli
+
+Usage:
+autoprefixer-cli -o main.prefixed.css main.css
+
+Documentation:
+autoprefixer-cli -h
+
+HTML-VALIDATE
+
+Instal:
+npm install -g html-validate
+
+Usage:
+html-validate FILENAME..
+
