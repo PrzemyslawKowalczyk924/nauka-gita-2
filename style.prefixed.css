@@ -1,0 +1,39 @@
+
+body {
+    margin: auto;
+    text-align: center;
+    background: #74ebd5;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 25px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;			
+    text-align: center;
+    font-size: large;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-style: inherit;
+    font-size: x-large;
+}
+p {
+	margin: 15px;
+	text-align: left;
+}
+.container {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	    flex-direction: column;
+	padding: 0 200px;
+}
+.text {
+	padding: 0 255px;
+	margin: 0 auto;
+}
