@@ -28,13 +28,17 @@ p {
 	text-align: left;
 }
 .container {
+	display: -ms-flexbox;
 	display: flex;
-	flex-direction: column;
+	-ms-flex-direction: column;
+	    flex-direction: column;
 	padding: 0 200px;
 }
 .text {
 	padding: 0 255px;
     margin: 0 auto;
+    display: -ms-flexbox;
     display: flex;
-    flex: auto;
+    -ms-flex: auto;
+        flex: auto;
 }
